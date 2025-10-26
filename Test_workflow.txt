@@ -1,0 +1,6 @@
+testing workflow
+
+to force push only to new created  branch then open pullrequest to Approver , delete the created branch 
+
+
+#i created ne Branch feature3 to test pushing on the new branch 
