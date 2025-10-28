@@ -1,5 +1,6 @@
-list_of_names = ["Kareem", "Mohamed", "Ahmed", "Osama"]
+list_Of_names = ["Ahmed","Ali","Alaa","Ashraf"]
+print(list_Of_names)
+print("Hello Session Three")
 
-print(list_of_names)
 
-print("hello session 3")
+## Here is the code to fix one bug.
