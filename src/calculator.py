@@ -10,9 +10,7 @@ def mul_value(a, b):
     return (a * b)
 
 def div_value(a, b):
-    if b == 0: 
-      return None
-    return (a / b)
+
 
 def get_square_root(a):
     return math.sqrt(a)
